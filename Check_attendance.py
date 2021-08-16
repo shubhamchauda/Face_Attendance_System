@@ -15,8 +15,8 @@ def sendMail(absent_students_list):
     # start TLS for security
     s.starttls()
     # Authentication
-    send_from = "shubham1430008@gmail.com"
-    password = 'shubham3008 1998@s141414'
+    send_from = ""
+    password = ''
     SUBJECT = 'Attendance Info'
     s.login(send_from, password)
     with open('textfile.txt','r') as f:
