@@ -8,6 +8,6 @@ Here In main.py is our main file when you run it will open web cam and recognize
 
 For checking Attendance  Check_attendance.py which will send mail to absent student.
 ![Screenshot 2021-08-16 091604](https://user-images.githubusercontent.com/32328604/129510096-d4c5859e-a70f-492a-816c-569e06f0bb16.png)
-![Screenshot 2021-08-16 091801](https://user-images.githubusercontent.com/32328604/129510134-3cd622c3-5820-484e-9799-37aeb8345d0f.png)
+
 
 <hr>
